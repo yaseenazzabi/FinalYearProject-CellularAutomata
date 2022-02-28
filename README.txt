@@ -1,4 +1,4 @@
-Run Visualising Cellular Automata.jar to run the program. This will require some installation of Java.
+Run Visualising Cellular Automata.jar to run the program. This will require some installation of Java. You will need to clone the repository or download all the .txt files and save them to the same directory as Visualing Cellular Automata.jar in order for the program to work.
 
 Alternatively, import the Eclipse package found in "Source Code (Eclipse Package)" and run the program using your installation of Eclipse. 
 
