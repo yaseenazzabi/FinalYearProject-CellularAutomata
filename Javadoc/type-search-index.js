@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"visualisingCellularAutomata","l":"Cell"},{"p":"visualisingCellularAutomata","l":"InitialPopup"},{"p":"visualisingCellularAutomata","l":"LifePanel"},{"p":"visualisingCellularAutomata","l":"MainClass"}];updateSearchResults();
