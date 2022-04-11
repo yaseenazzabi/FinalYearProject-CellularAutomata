@@ -5,3 +5,5 @@ Alternatively, import the Eclipse package found in "Source Code (Eclipse Package
 If you wish to simply read the code, navigate to Source Code (Eclipse Package)/src/VisualisingCellularAutomata, and read the code files there.
 
 This program simulates Lifelike Cellular Automata by drawing graphics. A full and extensive report, with an introduction summary, is found here, named "Report.pdf".
+
+A video demonstration (hosted on Google Drive due to its size) is available at https://drive.google.com/file/d/1zIQO-4qAsJn3YsIyh5aJ0lCOE14zG_nE/view
